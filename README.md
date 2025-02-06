@@ -8,6 +8,5 @@
     <img src="https://github.r2v.ch/codewars?user=Grigoret%20Petr&theme=gradient" width="400" />
 </a>
 
- `498 Completed Kata`
 
 </div>
